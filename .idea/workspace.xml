@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81b90860-ce51-4b7b-86b5-52504ca50634" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/google14a3845b7109cfba.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/giannis.iml" afterPath="$PROJECT_DIR$/.idea/giannis.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="81b90860-ce51-4b7b-86b5-52504ca50634" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/embed.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -201,12 +197,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523317222465</updated>
       <workItem from="1523317223732" duration="3298000" />
-      <workItem from="1523383271259" duration="685000" />
+      <workItem from="1523383271259" duration="1237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3983000" />
+    <option name="totallyTimeSpent" value="4535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="91" y="23" width="1436" height="877" extended-state="0" />
@@ -267,10 +263,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/google14a3845b7109cfba.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="53" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/embed.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
