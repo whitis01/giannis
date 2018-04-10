@@ -1,0 +1,8 @@
+embed_youtube:
+    container_name: embed_youtube
+    build: .
+    ports:
+     - "80:80"
+     - "443:443"
+    volumes:
+     - .:/var/www/php
