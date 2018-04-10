@@ -3,6 +3,7 @@ $result = [];
 parse_str($_SERVER['QUERY_STRING'], $result);
 $js = 'http://' . $_SERVER['HTTP_HOST'] . '/js/embed.js';
 $url = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['DOCUMENT_URI'];
+$url = 'https://www.google.com';
 //var_dump($result);
 ?>
 <!DOCTYPE html>

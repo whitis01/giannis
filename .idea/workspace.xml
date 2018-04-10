@@ -19,8 +19,8 @@
       <file leaf-file-name="embed.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/embed.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+            <state relative-caret-position="315">
+              <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -67,10 +67,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="91" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1436" />
+    <option name="width" value="1386" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -199,15 +198,15 @@
       <option name="presentableId" value="Default" />
       <updated>1523317222465</updated>
       <workItem from="1523317223732" duration="3298000" />
-      <workItem from="1523383271259" duration="2629000" />
+      <workItem from="1523383271259" duration="3467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5927000" />
+    <option name="totallyTimeSpent" value="6765000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="23" width="1436" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1436" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24930362" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -275,8 +274,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/embed.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        <state relative-caret-position="315">
+          <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
           <folding />
         </state>
       </provider>
