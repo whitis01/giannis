@@ -11,8 +11,8 @@ $url = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['DOCUMENT_URI'];
     <script type="text/javascript" async src="<?= $js; ?>"></script>
     <meta property="twitter:card"        content="player">
     <meta property="twitter:player"      content="https://youtu.be/zjDQYYOPCAY">
-    <meta property="twitter:site"        content="https://giannis.kingviking.com">
-    <meta property="twitter:creator"     content="Isaac White">
+    <meta property="twitter:site"        content="@vivial_a">
+    <meta property="twitter:creator"     content="@vivial_a">
     <meta property="og:title"            content="We came to see Giannis!!">
     <meta property="og:image"            content="https://i.ytimg.com/vi/zjDQYYOPCAY/maxresdefault.jpg">
     <meta property="og:description"      content="Giannis Turns 23, so let's celebrate his 34 greatest plays!">
