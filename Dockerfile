@@ -1,4 +1,4 @@
-FROM iwhite5/nginx:latest 
+FROM iwhite5/nginx-simple:latest
 MAINTAINER Isaac White
 
 WORKDIR /var/www/php  
@@ -9,5 +9,4 @@ COPY . /var/www/php
 # Define environment variable
 # ENV NAME World
 
-EXPOSE 80 443 8000 8001
 
