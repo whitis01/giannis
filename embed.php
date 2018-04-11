@@ -9,6 +9,7 @@ $url = 'https://www.google.com';
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#">
 <head>
+    <link rel="shortcut icon" href="/public/assets/buck.ico">
     <script type="text/javascript" async src="<?= $js; ?>"></script>
     <meta name="twitter:card"            content="player"/>
     <meta name="twitter:title"           content="Giannis Top 34"/>
