@@ -15,7 +15,7 @@ $url = 'https://www.google.com';
     <meta name="twitter:site"            content="@VivialMedia" />
     <meta name="twitter:description"     content="Giannis Turns 23, We Go For 34!!"/>
     <meta name="twitter:creator"         content="@vivial_a" />
-    <meta name="twitter:player"          content="http://youtu.be/zjDQYYOPCAY"/>
+    <meta name="twitter:player"          content="https://www.youtube.com/embed/zjDQYYOPCAY"/>
     <meta name="twitter:player:width"    content="480"/>
     <meta name="twitter:player:height"   content="240"/>
     <meta name="twitter:image"           content="https://i.ytimg.com/vi/zjDQYYOPCAY/maxresdefault.jpg"/>
