@@ -8,7 +8,7 @@ $url = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['DOCUMENT_URI'];
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#">
 <head>
-    <link rel="shortcut icon" href="/public/assets/buck.ico">
+    <link rel="shortcut icon" href="/public/assets/buck.png">
     <script type="text/javascript" async src="<?= $js; ?>"></script>
     <meta name="twitter:card"            content="player"/>
     <meta name="twitter:title"           content="Giannis Top 34"/>
