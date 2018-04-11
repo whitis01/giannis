@@ -9,8 +9,8 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 var player;
 function onYouTubeIframeAPIReady() {
     player = new YT.Player('player', {
-        height: '480',
-        width: '960',
+        height: '240',
+        width: '480',
         videoId: 'zjDQYYOPCAY',
         events: {
             'onReady': onPlayerReady
@@ -22,6 +22,7 @@ function onYouTubeIframeAPIReady() {
 // 4. The API will call this function when the video player is ready.
 function onPlayerReady(event) {
     event.target.playVideo();
+    event.target.stopVideo();
 }
 
 // 5. The API calls this function when the player's state changes.
