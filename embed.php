@@ -10,6 +10,9 @@ $url = 'https://www.google.com';
 <html prefix="og: http://ogp.me/ns#">
 <head>
     <script type="text/javascript" async src="<?= $js; ?>"></script>
+    <meta name="twitter:card"            content="player"
+    <meta name="twitter:site"            content="@VivialMedia" />
+    <meta name="twitter:creator"         content="@vivial_a" />
     <meta property="og:video"            content="http://youtu.be/zjDQYYOPCAY" />
     <meta property="og:video:secure_url" content="https://youtu.be/zjDQYYOPCAY" />
     <meta property="og:video:width"      content="480" />
