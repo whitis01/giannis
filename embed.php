@@ -27,7 +27,7 @@ $url = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['DOCUMENT_URI'];
     <meta "property:image"           content="https://i.ytimg.com/vi/kmblhEj9BSA/maxresdefault.jpg"/>
     <meta property="og:url"              content="<?= $url ?>">
     <meta property="fb:app_id"           content="514918008605706">
-    <meta property="og:type"             content="article">
+    <meta property="og:type"             content="video.other">
 </head>
 <body>
 <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
