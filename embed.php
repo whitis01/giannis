@@ -10,9 +10,15 @@ $url = 'https://www.google.com';
 <html prefix="og: http://ogp.me/ns#">
 <head>
     <script type="text/javascript" async src="<?= $js; ?>"></script>
-    <meta name="twitter:card"            content="player"
+    <meta name="twitter:card"            content="player"/>
+    <meta name="twitter:title"           content="Giannis Top 34"/>
     <meta name="twitter:site"            content="@VivialMedia" />
+    <meta name="twitter:description"     content="Giannis Turns 23, We Go For 34!!"/>
     <meta name="twitter:creator"         content="@vivial_a" />
+    <meta name="twitter:player"          content="http://giannis.kingviking.com/embed.php"/>
+    <meta name="twitter:player:width"    content="480"/>
+    <meta name="twitter:player:height"   content="240"/>
+    <meta name="twitter:image"           content="https://i.ytimg.com/vi/zjDQYYOPCAY/maxresdefault.jpg"/>
     <meta property="og:video"            content="http://youtu.be/zjDQYYOPCAY" />
     <meta property="og:video:secure_url" content="https://youtu.be/zjDQYYOPCAY" />
     <meta property="og:video:width"      content="480" />
