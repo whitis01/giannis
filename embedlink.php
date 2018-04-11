@@ -24,7 +24,7 @@ $url = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['DOCUMENT_URI'];
     <meta property="og:video:height"     content="240" />
     <meta property="og:title"            content="We came to see Giannis!!">
     <meta property="og:description"      content="Giannis Turns 23, so let's celebrate his 34 greatest plays!">
-    <meta property="og:image"           content="https://i.ytimg.com/vi/kmblhEj9BSA/maxresdefault.jpg"/>
+    <meta property="og:image"            content="https://i.ytimg.com/vi/kmblhEj9BSA/maxresdefault.jpg"/>
     <meta property="og:url"              content="<?= $url ?>">
     <meta property="fb:app_id"           content="514918008605706">
     <meta property="og:type"             content="video.other">
