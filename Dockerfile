@@ -9,4 +9,5 @@ COPY . /var/www/php
 # Define environment variable
 # ENV NAME World
 
+EXPOSE 80
 
