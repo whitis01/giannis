@@ -19,14 +19,13 @@ $url = 'https://www.google.com';
     <meta name="twitter:player:width"    content="480"/>
     <meta name="twitter:player:height"   content="240"/>
     <meta name="twitter:image"           content="https://i.ytimg.com/vi/zjDQYYOPCAY/maxresdefault.jpg"/>
-    <meta property="og:video"            content="http://youtu.be/zjDQYYOPCAY" />
     <meta property="og:video:secure_url" content="https://youtu.be/zjDQYYOPCAY" />
     <meta property="og:video:width"      content="480" />
     <meta property="og:video:height"     content="240" />
     <meta property="og:title"            content="We came to see Giannis!!">
     <meta property="og:image"            content="https://i.ytimg.com/vi/zjDQYYOPCAY/maxresdefault.jpg">
     <meta property="og:description"      content="Giannis Turns 23, so let's celebrate his 34 greatest plays!">
-    <meta property="og:url"              content="<?= $url; ?>">
+    <meta property="og:url"              content="https://www.youtube.com/watch?v=zjDQYYOPCAY&feature=youtu.be">
     <meta property="fb:app_id"           content="514918008605706">
     <meta property="og:type"             content="article">
 </head>
