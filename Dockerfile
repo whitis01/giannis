@@ -1,4 +1,4 @@
-FROM iwhite5/nginx-simple:latest
+FROM whitis01/nginx:latest
 MAINTAINER Isaac White
 
 WORKDIR /var/www/php  
